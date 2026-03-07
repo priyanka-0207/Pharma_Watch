@@ -1,0 +1,3202 @@
+{
+  "aspirin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 37433
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 31365
+      },
+      {
+        "term": "NAUSEA",
+        "count": 31025
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 30687
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 26254
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 26085
+      },
+      {
+        "term": "HEADACHE",
+        "count": 23105
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 22511
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 21862
+      },
+      {
+        "term": "FALL",
+        "count": 21403
+      },
+      {
+        "term": "PAIN",
+        "count": 21330
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 18138
+      },
+      {
+        "term": "VOMITING",
+        "count": 18095
+      },
+      {
+        "term": "DEATH",
+        "count": 17103
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 16377
+      },
+      {
+        "term": "MYOCARDIAL INFARCTION",
+        "count": 16265
+      },
+      {
+        "term": "MALAISE",
+        "count": 15880
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 15362
+      },
+      {
+        "term": "PRURITUS",
+        "count": 15329
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 15117
+      },
+      {
+        "term": "GASTROINTESTINAL HAEMORRHAGE",
+        "count": 14851
+      },
+      {
+        "term": "COUGH",
+        "count": 14476
+      },
+      {
+        "term": "RASH",
+        "count": 14244
+      },
+      {
+        "term": "CHEST PAIN",
+        "count": 13720
+      },
+      {
+        "term": "ANAEMIA",
+        "count": 13561
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 13181
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 12867
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 12788
+      },
+      {
+        "term": "PYREXIA",
+        "count": 12473
+      },
+      {
+        "term": "CEREBROVASCULAR ACCIDENT",
+        "count": 12340
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 424035
+      },
+      {
+        "term": "Non-serious",
+        "count": 177186
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 267699
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 139279
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 115944
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 63276
+      },
+      {
+        "term": "Fatal",
+        "count": 34953
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 5272
+      }
+    ]
+  },
+  "ibuprofen": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 16655
+      },
+      {
+        "term": "PAIN",
+        "count": 15756
+      },
+      {
+        "term": "FATIGUE",
+        "count": 14827
+      },
+      {
+        "term": "NAUSEA",
+        "count": 14019
+      },
+      {
+        "term": "HEADACHE",
+        "count": 12588
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 11037
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 10875
+      },
+      {
+        "term": "VOMITING",
+        "count": 10370
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 10002
+      },
+      {
+        "term": "RASH",
+        "count": 9212
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 8570
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 8511
+      },
+      {
+        "term": "PYREXIA",
+        "count": 8097
+      },
+      {
+        "term": "PRURITUS",
+        "count": 8094
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 6730
+      },
+      {
+        "term": "DRUG HYPERSENSITIVITY",
+        "count": 6654
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 6634
+      },
+      {
+        "term": "ANXIETY",
+        "count": 6528
+      },
+      {
+        "term": "JOINT SWELLING",
+        "count": 6303
+      },
+      {
+        "term": "MALAISE",
+        "count": 6174
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 6149
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 6126
+      },
+      {
+        "term": "ABDOMINAL PAIN UPPER",
+        "count": 6076
+      },
+      {
+        "term": "HYPERSENSITIVITY",
+        "count": 6066
+      },
+      {
+        "term": "NASOPHARYNGITIS",
+        "count": 5737
+      },
+      {
+        "term": "ABDOMINAL DISCOMFORT",
+        "count": 5700
+      },
+      {
+        "term": "PERIPHERAL SWELLING",
+        "count": 5694
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 5688
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 5522
+      },
+      {
+        "term": "URTICARIA",
+        "count": 5507
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 153967
+      },
+      {
+        "term": "Non-serious",
+        "count": 57903
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 101904
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 53970
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 42239
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 22657
+      },
+      {
+        "term": "Fatal",
+        "count": 13209
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 2284
+      }
+    ]
+  },
+  "acetaminophen": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG DEPENDENCE",
+        "count": 51116
+      },
+      {
+        "term": "OVERDOSE",
+        "count": 44395
+      },
+      {
+        "term": "PAIN",
+        "count": 41675
+      },
+      {
+        "term": "DEPENDENCE",
+        "count": 36993
+      },
+      {
+        "term": "DEATH",
+        "count": 28994
+      },
+      {
+        "term": "FATIGUE",
+        "count": 27263
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 26958
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 26740
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 25547
+      },
+      {
+        "term": "NAUSEA",
+        "count": 25416
+      },
+      {
+        "term": "HEADACHE",
+        "count": 22344
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 19135
+      },
+      {
+        "term": "EMOTIONAL DISTRESS",
+        "count": 19019
+      },
+      {
+        "term": "VOMITING",
+        "count": 18971
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 18815
+      },
+      {
+        "term": "COMPLETED SUICIDE",
+        "count": 18483
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 18078
+      },
+      {
+        "term": "PYREXIA",
+        "count": 16355
+      },
+      {
+        "term": "RASH",
+        "count": 15186
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 14013
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 13979
+      },
+      {
+        "term": "ANXIETY",
+        "count": 13973
+      },
+      {
+        "term": "MALAISE",
+        "count": 13727
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 13155
+      },
+      {
+        "term": "ILL-DEFINED DISORDER",
+        "count": 12503
+      },
+      {
+        "term": "FALL",
+        "count": 12312
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 11994
+      },
+      {
+        "term": "PRURITUS",
+        "count": 11968
+      },
+      {
+        "term": "INFUSION RELATED REACTION",
+        "count": 11592
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 11589
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 403663
+      },
+      {
+        "term": "Non-serious",
+        "count": 66203
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 248209
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 87000
+      },
+      {
+        "term": "Fatal",
+        "count": 77872
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 72151
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 33389
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 3304
+      }
+    ]
+  },
+  "metformin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "NAUSEA",
+        "count": 29156
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 26887
+      },
+      {
+        "term": "BLOOD GLUCOSE INCREASED",
+        "count": 26852
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 21790
+      },
+      {
+        "term": "FATIGUE",
+        "count": 20630
+      },
+      {
+        "term": "LACTIC ACIDOSIS",
+        "count": 19123
+      },
+      {
+        "term": "VOMITING",
+        "count": 18722
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 17541
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 16955
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 16229
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 15199
+      },
+      {
+        "term": "HEADACHE",
+        "count": 14540
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 14512
+      },
+      {
+        "term": "PAIN",
+        "count": 13651
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 12951
+      },
+      {
+        "term": "MALAISE",
+        "count": 12400
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 11527
+      },
+      {
+        "term": "FALL",
+        "count": 11175
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 10278
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 8960
+      },
+      {
+        "term": "DEATH",
+        "count": 8932
+      },
+      {
+        "term": "HYPOGLYCAEMIA",
+        "count": 8800
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 8688
+      },
+      {
+        "term": "PRURITUS",
+        "count": 8360
+      },
+      {
+        "term": "ABDOMINAL PAIN",
+        "count": 8272
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 8177
+      },
+      {
+        "term": "COUGH",
+        "count": 8142
+      },
+      {
+        "term": "RASH",
+        "count": 8127
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 7629
+      },
+      {
+        "term": "INJECTION SITE PAIN",
+        "count": 7507
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 283473
+      },
+      {
+        "term": "Non-serious",
+        "count": 135882
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 193570
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 108559
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 85448
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 52257
+      },
+      {
+        "term": "Fatal",
+        "count": 27062
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 4441
+      }
+    ]
+  },
+  "lisinopril": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 20497
+      },
+      {
+        "term": "NAUSEA",
+        "count": 19154
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 18505
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 17815
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 14319
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 14063
+      },
+      {
+        "term": "PAIN",
+        "count": 13909
+      },
+      {
+        "term": "HEADACHE",
+        "count": 13313
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 11187
+      },
+      {
+        "term": "VOMITING",
+        "count": 11119
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 10823
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 9767
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 9754
+      },
+      {
+        "term": "FALL",
+        "count": 9347
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 9246
+      },
+      {
+        "term": "HYPERTENSION",
+        "count": 8747
+      },
+      {
+        "term": "RASH",
+        "count": 8710
+      },
+      {
+        "term": "MALAISE",
+        "count": 8682
+      },
+      {
+        "term": "COUGH",
+        "count": 8564
+      },
+      {
+        "term": "DEATH",
+        "count": 8384
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 8312
+      },
+      {
+        "term": "PRURITUS",
+        "count": 8130
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 8086
+      },
+      {
+        "term": "ANGIOEDEMA",
+        "count": 8057
+      },
+      {
+        "term": "RENAL FAILURE",
+        "count": 7677
+      },
+      {
+        "term": "ANXIETY",
+        "count": 7331
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 7317
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 7001
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 6969
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 6896
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 191686
+      },
+      {
+        "term": "Non-serious",
+        "count": 124362
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 140498
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 73954
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 69598
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 29418
+      },
+      {
+        "term": "Fatal",
+        "count": 17829
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1950
+      }
+    ]
+  },
+  "atorvastatin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 19168
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 17127
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 15991
+      },
+      {
+        "term": "NAUSEA",
+        "count": 15957
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 14910
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 13217
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 12738
+      },
+      {
+        "term": "HEADACHE",
+        "count": 11723
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 10866
+      },
+      {
+        "term": "FALL",
+        "count": 10859
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 10856
+      },
+      {
+        "term": "PAIN",
+        "count": 10787
+      },
+      {
+        "term": "DEATH",
+        "count": 9948
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 9743
+      },
+      {
+        "term": "VOMITING",
+        "count": 9724
+      },
+      {
+        "term": "MALAISE",
+        "count": 9327
+      },
+      {
+        "term": "MYALGIA",
+        "count": 9188
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 8176
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 7798
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 7771
+      },
+      {
+        "term": "PRURITUS",
+        "count": 7666
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 7643
+      },
+      {
+        "term": "COUGH",
+        "count": 7514
+      },
+      {
+        "term": "RASH",
+        "count": 7331
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 6904
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 6700
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 6329
+      },
+      {
+        "term": "PYREXIA",
+        "count": 6293
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 6121
+      },
+      {
+        "term": "ANAEMIA",
+        "count": 5954
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 242761
+      },
+      {
+        "term": "Non-serious",
+        "count": 83506
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 162310
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 94737
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 77721
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 49367
+      },
+      {
+        "term": "Fatal",
+        "count": 22128
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 4930
+      }
+    ]
+  },
+  "omeprazole": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "NAUSEA",
+        "count": 21185
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 21002
+      },
+      {
+        "term": "FATIGUE",
+        "count": 20961
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 17278
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 17080
+      },
+      {
+        "term": "HEADACHE",
+        "count": 15498
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 14868
+      },
+      {
+        "term": "PAIN",
+        "count": 14477
+      },
+      {
+        "term": "VOMITING",
+        "count": 14096
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 13918
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 13138
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 12619
+      },
+      {
+        "term": "MALAISE",
+        "count": 11583
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 11351
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 11212
+      },
+      {
+        "term": "FALL",
+        "count": 11176
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 10431
+      },
+      {
+        "term": "DEATH",
+        "count": 10005
+      },
+      {
+        "term": "PYREXIA",
+        "count": 9462
+      },
+      {
+        "term": "RASH",
+        "count": 8746
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 8562
+      },
+      {
+        "term": "COUGH",
+        "count": 8536
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 8531
+      },
+      {
+        "term": "PRURITUS",
+        "count": 8454
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 8212
+      },
+      {
+        "term": "RENAL FAILURE",
+        "count": 7933
+      },
+      {
+        "term": "ABDOMINAL PAIN",
+        "count": 7836
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 7782
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 7352
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 7325
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 261909
+      },
+      {
+        "term": "Non-serious",
+        "count": 92543
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 165362
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 97194
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 89394
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 45128
+      },
+      {
+        "term": "Fatal",
+        "count": 23937
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 5279
+      }
+    ]
+  },
+  "amoxicillin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DIARRHOEA",
+        "count": 6683
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 5835
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 5823
+      },
+      {
+        "term": "NAUSEA",
+        "count": 5581
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 5237
+      },
+      {
+        "term": "RASH",
+        "count": 5170
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 4996
+      },
+      {
+        "term": "FATIGUE",
+        "count": 4872
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 4802
+      },
+      {
+        "term": "PYREXIA",
+        "count": 4774
+      },
+      {
+        "term": "PAIN",
+        "count": 4732
+      },
+      {
+        "term": "DRUG HYPERSENSITIVITY",
+        "count": 4670
+      },
+      {
+        "term": "VOMITING",
+        "count": 4585
+      },
+      {
+        "term": "PRURITUS",
+        "count": 4364
+      },
+      {
+        "term": "HEADACHE",
+        "count": 4127
+      },
+      {
+        "term": "MALAISE",
+        "count": 3738
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 3624
+      },
+      {
+        "term": "RENAL FAILURE",
+        "count": 3554
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 3038
+      },
+      {
+        "term": "ANXIETY",
+        "count": 2975
+      },
+      {
+        "term": "URTICARIA",
+        "count": 2964
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 2788
+      },
+      {
+        "term": "ERYTHEMA",
+        "count": 2785
+      },
+      {
+        "term": "ABDOMINAL PAIN",
+        "count": 2782
+      },
+      {
+        "term": "COUGH",
+        "count": 2766
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 2702
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 2521
+      },
+      {
+        "term": "HYPERSENSITIVITY",
+        "count": 2464
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 2318
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 2268
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 92450
+      },
+      {
+        "term": "Non-serious",
+        "count": 18552
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 50307
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 34762
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 21796
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 15339
+      },
+      {
+        "term": "Fatal",
+        "count": 6429
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1392
+      }
+    ]
+  },
+  "sertraline": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 8509
+      },
+      {
+        "term": "NAUSEA",
+        "count": 8442
+      },
+      {
+        "term": "FATIGUE",
+        "count": 7598
+      },
+      {
+        "term": "HEADACHE",
+        "count": 6805
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 6679
+      },
+      {
+        "term": "ANXIETY",
+        "count": 6037
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 6037
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 5740
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 5539
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 5365
+      },
+      {
+        "term": "VOMITING",
+        "count": 5273
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 5008
+      },
+      {
+        "term": "FALL",
+        "count": 4765
+      },
+      {
+        "term": "PAIN",
+        "count": 4390
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 4208
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 4075
+      },
+      {
+        "term": "MALAISE",
+        "count": 4059
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 3853
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 3755
+      },
+      {
+        "term": "TREMOR",
+        "count": 3551
+      },
+      {
+        "term": "SOMNOLENCE",
+        "count": 3534
+      },
+      {
+        "term": "CONFUSIONAL STATE",
+        "count": 3436
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 3307
+      },
+      {
+        "term": "DEATH",
+        "count": 3253
+      },
+      {
+        "term": "SUICIDAL IDEATION",
+        "count": 3246
+      },
+      {
+        "term": "COMPLETED SUICIDE",
+        "count": 2894
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 2883
+      },
+      {
+        "term": "INTENTIONAL OVERDOSE",
+        "count": 2859
+      },
+      {
+        "term": "PRURITUS",
+        "count": 2800
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 2758
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 108894
+      },
+      {
+        "term": "Non-serious",
+        "count": 30272
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 66213
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 39209
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 31824
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 18437
+      },
+      {
+        "term": "Fatal",
+        "count": 11330
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 2245
+      }
+    ]
+  },
+  "fluoxetine": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 4718
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 4349
+      },
+      {
+        "term": "NAUSEA",
+        "count": 4326
+      },
+      {
+        "term": "FATIGUE",
+        "count": 4321
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 4227
+      },
+      {
+        "term": "HEADACHE",
+        "count": 3897
+      },
+      {
+        "term": "COMPLETED SUICIDE",
+        "count": 3635
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 3426
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 3243
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 3217
+      },
+      {
+        "term": "ANXIETY",
+        "count": 3198
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 3077
+      },
+      {
+        "term": "VOMITING",
+        "count": 2983
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 2957
+      },
+      {
+        "term": "FALL",
+        "count": 2773
+      },
+      {
+        "term": "INTENTIONAL OVERDOSE",
+        "count": 2710
+      },
+      {
+        "term": "PAIN",
+        "count": 2625
+      },
+      {
+        "term": "MALAISE",
+        "count": 2500
+      },
+      {
+        "term": "SUICIDAL IDEATION",
+        "count": 2338
+      },
+      {
+        "term": "SOMNOLENCE",
+        "count": 2288
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 2241
+      },
+      {
+        "term": "SEROTONIN SYNDROME",
+        "count": 2209
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 2174
+      },
+      {
+        "term": "SUICIDE ATTEMPT",
+        "count": 2173
+      },
+      {
+        "term": "TREMOR",
+        "count": 2150
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 2108
+      },
+      {
+        "term": "DEATH",
+        "count": 2040
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 1951
+      },
+      {
+        "term": "DRUG ABUSE",
+        "count": 1886
+      },
+      {
+        "term": "WEIGHT INCREASED",
+        "count": 1848
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 66285
+      },
+      {
+        "term": "Non-serious",
+        "count": 17878
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 36446
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 21728
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 15912
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 9781
+      },
+      {
+        "term": "Fatal",
+        "count": 8179
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1026
+      }
+    ]
+  },
+  "loratadine": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 3937
+      },
+      {
+        "term": "FATIGUE",
+        "count": 3334
+      },
+      {
+        "term": "NAUSEA",
+        "count": 2829
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 2540
+      },
+      {
+        "term": "HEADACHE",
+        "count": 2524
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 2469
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 2319
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 2198
+      },
+      {
+        "term": "PAIN",
+        "count": 2071
+      },
+      {
+        "term": "RASH",
+        "count": 1680
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 1589
+      },
+      {
+        "term": "VOMITING",
+        "count": 1566
+      },
+      {
+        "term": "PRURITUS",
+        "count": 1564
+      },
+      {
+        "term": "COUGH",
+        "count": 1532
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 1475
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 1452
+      },
+      {
+        "term": "ANXIETY",
+        "count": 1422
+      },
+      {
+        "term": "SOMNOLENCE",
+        "count": 1401
+      },
+      {
+        "term": "MALAISE",
+        "count": 1355
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 1319
+      },
+      {
+        "term": "PYREXIA",
+        "count": 1299
+      },
+      {
+        "term": "FALL",
+        "count": 1287
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 1220
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 1136
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 1092
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 1074
+      },
+      {
+        "term": "DEATH",
+        "count": 1070
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 1051
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 1032
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 1009
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 30198
+      },
+      {
+        "term": "Non-serious",
+        "count": 20285
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 26779
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 13549
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 11968
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 5644
+      },
+      {
+        "term": "Fatal",
+        "count": 2205
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 470
+      }
+    ]
+  },
+  "metoprolol": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 21248
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 18417
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 18075
+      },
+      {
+        "term": "NAUSEA",
+        "count": 17667
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 15917
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 15326
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 12902
+      },
+      {
+        "term": "DEATH",
+        "count": 12691
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 12218
+      },
+      {
+        "term": "HEADACHE",
+        "count": 11945
+      },
+      {
+        "term": "FALL",
+        "count": 11544
+      },
+      {
+        "term": "PAIN",
+        "count": 11508
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 9502
+      },
+      {
+        "term": "VOMITING",
+        "count": 9342
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 9246
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 8612
+      },
+      {
+        "term": "ATRIAL FIBRILLATION",
+        "count": 8381
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 8326
+      },
+      {
+        "term": "MALAISE",
+        "count": 8257
+      },
+      {
+        "term": "COUGH",
+        "count": 7915
+      },
+      {
+        "term": "HYPERTENSION",
+        "count": 7868
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 7490
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 7486
+      },
+      {
+        "term": "MYOCARDIAL INFARCTION",
+        "count": 7322
+      },
+      {
+        "term": "RASH",
+        "count": 7230
+      },
+      {
+        "term": "PRURITUS",
+        "count": 7130
+      },
+      {
+        "term": "DECREASED APPETITE",
+        "count": 6825
+      },
+      {
+        "term": "RENAL FAILURE",
+        "count": 6627
+      },
+      {
+        "term": "CHEST PAIN",
+        "count": 6583
+      },
+      {
+        "term": "BLOOD PRESSURE INCREASED",
+        "count": 6448
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 221397
+      },
+      {
+        "term": "Non-serious",
+        "count": 98408
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 157108
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 75968
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 71217
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 34650
+      },
+      {
+        "term": "Fatal",
+        "count": 26418
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 2662
+      }
+    ]
+  },
+  "gabapentin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 23189
+      },
+      {
+        "term": "FATIGUE",
+        "count": 20629
+      },
+      {
+        "term": "NAUSEA",
+        "count": 18012
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 16659
+      },
+      {
+        "term": "PAIN",
+        "count": 16426
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 14900
+      },
+      {
+        "term": "HEADACHE",
+        "count": 14131
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 12795
+      },
+      {
+        "term": "FALL",
+        "count": 12317
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 11280
+      },
+      {
+        "term": "VOMITING",
+        "count": 9577
+      },
+      {
+        "term": "DEATH",
+        "count": 9493
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 9374
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 9335
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 9138
+      },
+      {
+        "term": "MALAISE",
+        "count": 8569
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 8339
+      },
+      {
+        "term": "ANXIETY",
+        "count": 7641
+      },
+      {
+        "term": "SOMNOLENCE",
+        "count": 7467
+      },
+      {
+        "term": "RASH",
+        "count": 7266
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 7254
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 7226
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 7120
+      },
+      {
+        "term": "DRUG HYPERSENSITIVITY",
+        "count": 6951
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 6904
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 6883
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 6763
+      },
+      {
+        "term": "GAIT DISTURBANCE",
+        "count": 6490
+      },
+      {
+        "term": "FEELING ABNORMAL",
+        "count": 6464
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 6453
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 185087
+      },
+      {
+        "term": "Non-serious",
+        "count": 104103
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 162555
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 73718
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 66389
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 29953
+      },
+      {
+        "term": "Fatal",
+        "count": 23978
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 2207
+      }
+    ]
+  },
+  "prednisone": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 67203
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 53991
+      },
+      {
+        "term": "FATIGUE",
+        "count": 41386
+      },
+      {
+        "term": "PAIN",
+        "count": 38499
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 35567
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 33737
+      },
+      {
+        "term": "NAUSEA",
+        "count": 29300
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 28849
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 28806
+      },
+      {
+        "term": "HEADACHE",
+        "count": 26970
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 25455
+      },
+      {
+        "term": "RHEUMATOID ARTHRITIS",
+        "count": 25294
+      },
+      {
+        "term": "RASH",
+        "count": 23084
+      },
+      {
+        "term": "PYREXIA",
+        "count": 22531
+      },
+      {
+        "term": "MALAISE",
+        "count": 21061
+      },
+      {
+        "term": "VOMITING",
+        "count": 19518
+      },
+      {
+        "term": "COUGH",
+        "count": 19459
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 18860
+      },
+      {
+        "term": "JOINT SWELLING",
+        "count": 18136
+      },
+      {
+        "term": "ASTHMA",
+        "count": 17735
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 17613
+      },
+      {
+        "term": "WEIGHT INCREASED",
+        "count": 17592
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 17286
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 16472
+      },
+      {
+        "term": "PRURITUS",
+        "count": 15120
+      },
+      {
+        "term": "NASOPHARYNGITIS",
+        "count": 14966
+      },
+      {
+        "term": "ABDOMINAL DISCOMFORT",
+        "count": 14794
+      },
+      {
+        "term": "PERIPHERAL SWELLING",
+        "count": 14539
+      },
+      {
+        "term": "ALOPECIA",
+        "count": 14457
+      },
+      {
+        "term": "HYPERTENSION",
+        "count": 14335
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 404962
+      },
+      {
+        "term": "Non-serious",
+        "count": 110343
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 282355
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 121531
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 113104
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 57339
+      },
+      {
+        "term": "Fatal",
+        "count": 41982
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 3487
+      }
+    ]
+  },
+  "ciprofloxacin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 5333
+      },
+      {
+        "term": "PAIN",
+        "count": 5166
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 5120
+      },
+      {
+        "term": "NAUSEA",
+        "count": 5082
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 5079
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 4537
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 4442
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 4198
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 4126
+      },
+      {
+        "term": "DRUG HYPERSENSITIVITY",
+        "count": 4054
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 3987
+      },
+      {
+        "term": "PYREXIA",
+        "count": 3969
+      },
+      {
+        "term": "VOMITING",
+        "count": 3955
+      },
+      {
+        "term": "ANXIETY",
+        "count": 3716
+      },
+      {
+        "term": "HEADACHE",
+        "count": 3633
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 3478
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 3270
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 3213
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 3195
+      },
+      {
+        "term": "MALAISE",
+        "count": 3182
+      },
+      {
+        "term": "RENAL FAILURE",
+        "count": 3122
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 3065
+      },
+      {
+        "term": "RASH",
+        "count": 3017
+      },
+      {
+        "term": "MYALGIA",
+        "count": 2768
+      },
+      {
+        "term": "ABDOMINAL PAIN",
+        "count": 2714
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 2532
+      },
+      {
+        "term": "PARAESTHESIA",
+        "count": 2512
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 2467
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 2283
+      },
+      {
+        "term": "URINARY TRACT INFECTION",
+        "count": 2243
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 74222
+      },
+      {
+        "term": "Non-serious",
+        "count": 10552
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 34863
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 19990
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 19449
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 9482
+      },
+      {
+        "term": "Fatal",
+        "count": 6454
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1685
+      }
+    ]
+  },
+  "warfarin": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "INTERNATIONAL NORMALISED RATIO INCREASED",
+        "count": 11066
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 8808
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 6684
+      },
+      {
+        "term": "FATIGUE",
+        "count": 6391
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 6277
+      },
+      {
+        "term": "NAUSEA",
+        "count": 6229
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 5423
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 5322
+      },
+      {
+        "term": "FALL",
+        "count": 5080
+      },
+      {
+        "term": "DEATH",
+        "count": 4907
+      },
+      {
+        "term": "HEADACHE",
+        "count": 4852
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 4590
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 4435
+      },
+      {
+        "term": "HAEMORRHAGE",
+        "count": 4276
+      },
+      {
+        "term": "ANAEMIA",
+        "count": 4260
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 4005
+      },
+      {
+        "term": "VOMITING",
+        "count": 3853
+      },
+      {
+        "term": "PAIN",
+        "count": 3840
+      },
+      {
+        "term": "MALAISE",
+        "count": 3818
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 3767
+      },
+      {
+        "term": "ATRIAL FIBRILLATION",
+        "count": 3743
+      },
+      {
+        "term": "GASTROINTESTINAL HAEMORRHAGE",
+        "count": 3443
+      },
+      {
+        "term": "HAEMOGLOBIN DECREASED",
+        "count": 3103
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 3083
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 2916
+      },
+      {
+        "term": "COUGH",
+        "count": 2835
+      },
+      {
+        "term": "PYREXIA",
+        "count": 2758
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 2715
+      },
+      {
+        "term": "OEDEMA PERIPHERAL",
+        "count": 2671
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 2630
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 106599
+      },
+      {
+        "term": "Non-serious",
+        "count": 26280
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 57421
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 26981
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 19930
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 13452
+      },
+      {
+        "term": "Fatal",
+        "count": 11475
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1162
+      }
+    ]
+  },
+  "albuterol": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DYSPNOEA",
+        "count": 31451
+      },
+      {
+        "term": "ASTHMA",
+        "count": 16040
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 15640
+      },
+      {
+        "term": "COUGH",
+        "count": 14357
+      },
+      {
+        "term": "FATIGUE",
+        "count": 12790
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 12372
+      },
+      {
+        "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+        "count": 12003
+      },
+      {
+        "term": "NAUSEA",
+        "count": 11929
+      },
+      {
+        "term": "HEADACHE",
+        "count": 11679
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 10691
+      },
+      {
+        "term": "DEVICE DELIVERY SYSTEM ISSUE",
+        "count": 10255
+      },
+      {
+        "term": "PAIN",
+        "count": 9877
+      },
+      {
+        "term": "WHEEZING",
+        "count": 9511
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 9378
+      },
+      {
+        "term": "DRUG DOSE OMISSION BY DEVICE",
+        "count": 9050
+      },
+      {
+        "term": "NO ADVERSE EVENT",
+        "count": 8866
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 8211
+      },
+      {
+        "term": "VOMITING",
+        "count": 7591
+      },
+      {
+        "term": "ANXIETY",
+        "count": 6932
+      },
+      {
+        "term": "PRODUCT DOSE OMISSION ISSUE",
+        "count": 6931
+      },
+      {
+        "term": "MALAISE",
+        "count": 6896
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 6843
+      },
+      {
+        "term": "DEATH",
+        "count": 6492
+      },
+      {
+        "term": "RASH",
+        "count": 6228
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 6164
+      },
+      {
+        "term": "PYREXIA",
+        "count": 6045
+      },
+      {
+        "term": "FALL",
+        "count": 5990
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 5881
+      },
+      {
+        "term": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+        "count": 5533
+      },
+      {
+        "term": "CHEST DISCOMFORT",
+        "count": 5428
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 130851
+      },
+      {
+        "term": "Non-serious",
+        "count": 97811
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 129106
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 46355
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 46216
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 19468
+      },
+      {
+        "term": "Fatal",
+        "count": 11374
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1536
+      }
+    ]
+  },
+  "hydrochlorothiazide": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "FATIGUE",
+        "count": 14254
+      },
+      {
+        "term": "NAUSEA",
+        "count": 13948
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 13130
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 11990
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 10899
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 10808
+      },
+      {
+        "term": "HEADACHE",
+        "count": 10468
+      },
+      {
+        "term": "PAIN",
+        "count": 10304
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 8218
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 8161
+      },
+      {
+        "term": "VOMITING",
+        "count": 7972
+      },
+      {
+        "term": "FALL",
+        "count": 7968
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 7850
+      },
+      {
+        "term": "MALAISE",
+        "count": 7214
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 6827
+      },
+      {
+        "term": "HYPERTENSION",
+        "count": 6815
+      },
+      {
+        "term": "COUGH",
+        "count": 6330
+      },
+      {
+        "term": "PRURITUS",
+        "count": 6219
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 6198
+      },
+      {
+        "term": "WEIGHT DECREASED",
+        "count": 5992
+      },
+      {
+        "term": "BLOOD PRESSURE INCREASED",
+        "count": 5914
+      },
+      {
+        "term": "RASH",
+        "count": 5597
+      },
+      {
+        "term": "HYPOTENSION",
+        "count": 5418
+      },
+      {
+        "term": "ANXIETY",
+        "count": 5366
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 5183
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 5148
+      },
+      {
+        "term": "PYREXIA",
+        "count": 5100
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 4884
+      },
+      {
+        "term": "HYPONATRAEMIA",
+        "count": 4665
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 4567
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 143627
+      },
+      {
+        "term": "Non-serious",
+        "count": 65944
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 91630
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 51627
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 45976
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 24404
+      },
+      {
+        "term": "Fatal",
+        "count": 10312
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 1950
+      }
+    ]
+  },
+  "tramadol": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG DEPENDENCE",
+        "count": 19983
+      },
+      {
+        "term": "PAIN",
+        "count": 15730
+      },
+      {
+        "term": "NAUSEA",
+        "count": 13678
+      },
+      {
+        "term": "OVERDOSE",
+        "count": 13259
+      },
+      {
+        "term": "FATIGUE",
+        "count": 11941
+      },
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 11543
+      },
+      {
+        "term": "VOMITING",
+        "count": 10581
+      },
+      {
+        "term": "HEADACHE",
+        "count": 10190
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 9721
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 8858
+      },
+      {
+        "term": "DEPENDENCE",
+        "count": 8576
+      },
+      {
+        "term": "DEATH",
+        "count": 8533
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 8382
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 7962
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 7823
+      },
+      {
+        "term": "FALL",
+        "count": 7345
+      },
+      {
+        "term": "MALAISE",
+        "count": 7082
+      },
+      {
+        "term": "ANXIETY",
+        "count": 6782
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 6708
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 6528
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 6481
+      },
+      {
+        "term": "CHRONIC KIDNEY DISEASE",
+        "count": 6053
+      },
+      {
+        "term": "ACUTE KIDNEY INJURY",
+        "count": 5932
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 5851
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 5850
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 5548
+      },
+      {
+        "term": "DRUG ABUSE",
+        "count": 5526
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 5228
+      },
+      {
+        "term": "CONFUSIONAL STATE",
+        "count": 5216
+      },
+      {
+        "term": "RASH",
+        "count": 5146
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 168327
+      },
+      {
+        "term": "Non-serious",
+        "count": 45414
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 112718
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 49670
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 44268
+      },
+      {
+        "term": "Fatal",
+        "count": 23953
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 20867
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 2221
+      }
+    ]
+  },
+  "duloxetine": {
+    "FAERS_count_reactions_by_drug_event": [
+      {
+        "term": "DRUG INEFFECTIVE",
+        "count": 5657
+      },
+      {
+        "term": "NAUSEA",
+        "count": 5423
+      },
+      {
+        "term": "FATIGUE",
+        "count": 5391
+      },
+      {
+        "term": "OFF LABEL USE",
+        "count": 4244
+      },
+      {
+        "term": "HEADACHE",
+        "count": 4173
+      },
+      {
+        "term": "PAIN",
+        "count": 4139
+      },
+      {
+        "term": "DIARRHOEA",
+        "count": 3728
+      },
+      {
+        "term": "DIZZINESS",
+        "count": 3550
+      },
+      {
+        "term": "FALL",
+        "count": 3113
+      },
+      {
+        "term": "VOMITING",
+        "count": 2729
+      },
+      {
+        "term": "ARTHRALGIA",
+        "count": 2615
+      },
+      {
+        "term": "DEPRESSION",
+        "count": 2526
+      },
+      {
+        "term": "DYSPNOEA",
+        "count": 2525
+      },
+      {
+        "term": "TOXICITY TO VARIOUS AGENTS",
+        "count": 2314
+      },
+      {
+        "term": "ANXIETY",
+        "count": 2291
+      },
+      {
+        "term": "COMPLETED SUICIDE",
+        "count": 2191
+      },
+      {
+        "term": "DRUG INTERACTION",
+        "count": 2191
+      },
+      {
+        "term": "ASTHENIA",
+        "count": 2179
+      },
+      {
+        "term": "SOMNOLENCE",
+        "count": 2170
+      },
+      {
+        "term": "MALAISE",
+        "count": 2027
+      },
+      {
+        "term": "INSOMNIA",
+        "count": 2014
+      },
+      {
+        "term": "CONDITION AGGRAVATED",
+        "count": 1927
+      },
+      {
+        "term": "PAIN IN EXTREMITY",
+        "count": 1894
+      },
+      {
+        "term": "HYPERHIDROSIS",
+        "count": 1866
+      },
+      {
+        "term": "DEATH",
+        "count": 1830
+      },
+      {
+        "term": "PNEUMONIA",
+        "count": 1729
+      },
+      {
+        "term": "BACK PAIN",
+        "count": 1721
+      },
+      {
+        "term": "CONSTIPATION",
+        "count": 1652
+      },
+      {
+        "term": "PRURITUS",
+        "count": 1631
+      },
+      {
+        "term": "PRODUCT DOSE OMISSION ISSUE",
+        "count": 1626
+      }
+    ],
+    "FAERS_count_seriousness_by_drug_event": [
+      {
+        "term": "Serious",
+        "count": 51265
+      },
+      {
+        "term": "Non-serious",
+        "count": 21422
+      }
+    ],
+    "FAERS_count_outcomes_by_drug_event": [
+      {
+        "term": "Unknown",
+        "count": 39779
+      },
+      {
+        "term": "Recovered/resolved",
+        "count": 18911
+      },
+      {
+        "term": "Not recovered/not resolved",
+        "count": 18109
+      },
+      {
+        "term": "Recovering/resolving",
+        "count": 9298
+      },
+      {
+        "term": "Fatal",
+        "count": 5885
+      },
+      {
+        "term": "Recovered/resolved with sequelae (consequent health issues)",
+        "count": 769
+      }
+    ]
+  }
+}

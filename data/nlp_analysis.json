@@ -1,0 +1,955 @@
+{
+  "keywords_per_drug": {
+    "aspirin": [
+      {
+        "keyword": "stomach",
+        "score": 0.4422
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.3391
+      },
+      {
+        "keyword": "bleeding",
+        "score": 0.3159
+      },
+      {
+        "keyword": "product",
+        "score": 0.2958
+      },
+      {
+        "keyword": "aspirin",
+        "score": 0.2712
+      },
+      {
+        "keyword": "ask",
+        "score": 0.2712
+      },
+      {
+        "keyword": "ask doctor",
+        "score": 0.2034
+      },
+      {
+        "keyword": "allergic reaction",
+        "score": 0.1895
+      },
+      {
+        "keyword": "allergic",
+        "score": 0.1692
+      },
+      {
+        "keyword": "asthma",
+        "score": 0.1356
+      }
+    ],
+    "ibuprofen": [
+      {
+        "keyword": "stomach",
+        "score": 0.4324
+      },
+      {
+        "keyword": "stroke",
+        "score": 0.3136
+      },
+      {
+        "keyword": "heart",
+        "score": 0.2969
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.2901
+      },
+      {
+        "keyword": "aspirin",
+        "score": 0.2901
+      },
+      {
+        "keyword": "bleeding",
+        "score": 0.2703
+      },
+      {
+        "keyword": "ask",
+        "score": 0.2321
+      },
+      {
+        "keyword": "ask doctor",
+        "score": 0.1741
+      },
+      {
+        "keyword": "pain",
+        "score": 0.1638
+      },
+      {
+        "keyword": "allergic reaction",
+        "score": 0.1622
+      }
+    ],
+    "acetaminophen": [
+      {
+        "keyword": "ask",
+        "score": 0.5027
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.4022
+      },
+      {
+        "keyword": "ask doctor",
+        "score": 0.4022
+      },
+      {
+        "keyword": "product",
+        "score": 0.2631
+      },
+      {
+        "keyword": "medical",
+        "score": 0.2205
+      },
+      {
+        "keyword": "symptoms",
+        "score": 0.1882
+      },
+      {
+        "keyword": "liver",
+        "score": 0.179
+      },
+      {
+        "keyword": "skin",
+        "score": 0.1703
+      },
+      {
+        "keyword": "occur",
+        "score": 0.147
+      },
+      {
+        "keyword": "children",
+        "score": 0.1392
+      }
+    ],
+    "metformin": [
+      {
+        "keyword": "metformin",
+        "score": 0.6204
+      },
+      {
+        "keyword": "sitagliptin",
+        "score": 0.5289
+      },
+      {
+        "keyword": "patients",
+        "score": 0.22
+      },
+      {
+        "keyword": "placebo",
+        "score": 0.1704
+      },
+      {
+        "keyword": "patients given",
+        "score": 0.1424
+      },
+      {
+        "keyword": "insulin",
+        "score": 0.1404
+      },
+      {
+        "keyword": "hypoglycemia",
+        "score": 0.1404
+      },
+      {
+        "keyword": "mg",
+        "score": 0.1183
+      },
+      {
+        "keyword": "add",
+        "score": 0.1035
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.1004
+      }
+    ],
+    "lisinopril": [
+      {
+        "keyword": "lisinopril",
+        "score": 0.5547
+      },
+      {
+        "keyword": "hydrochlorothiazide",
+        "score": 0.3478
+      },
+      {
+        "keyword": "patients",
+        "score": 0.2679
+      },
+      {
+        "keyword": "lisinopril hydrochlorothiazide",
+        "score": 0.2162
+      },
+      {
+        "keyword": "ace",
+        "score": 0.1974
+      },
+      {
+        "keyword": "hydrochlorothiazide tablets",
+        "score": 0.1786
+      },
+      {
+        "keyword": "renal",
+        "score": 0.1474
+      },
+      {
+        "keyword": "tablets",
+        "score": 0.1366
+      },
+      {
+        "keyword": "fetal",
+        "score": 0.1316
+      },
+      {
+        "keyword": "angioedema",
+        "score": 0.1254
+      }
+    ],
+    "atorvastatin": [
+      {
+        "keyword": "atorvastatin",
+        "score": 0.7489
+      },
+      {
+        "keyword": "atorvastatin calcium",
+        "score": 0.264
+      },
+      {
+        "keyword": "myopathy",
+        "score": 0.232
+      },
+      {
+        "keyword": "calcium",
+        "score": 0.1774
+      },
+      {
+        "keyword": "myopathy rhabdomyolysis",
+        "score": 0.156
+      },
+      {
+        "keyword": "clinical",
+        "score": 0.1359
+      },
+      {
+        "keyword": "rhabdomyolysis",
+        "score": 0.1332
+      },
+      {
+        "keyword": "plus",
+        "score": 0.1196
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1093
+      },
+      {
+        "keyword": "concomitant",
+        "score": 0.1006
+      }
+    ],
+    "omeprazole": [
+      {
+        "keyword": "doctor",
+        "score": 0.4199
+      },
+      {
+        "keyword": "ask",
+        "score": 0.4199
+      },
+      {
+        "keyword": "pain",
+        "score": 0.4149
+      },
+      {
+        "keyword": "ask doctor",
+        "score": 0.315
+      },
+      {
+        "keyword": "sweating",
+        "score": 0.1956
+      },
+      {
+        "keyword": "chest",
+        "score": 0.1956
+      },
+      {
+        "keyword": "months",
+        "score": 0.1535
+      },
+      {
+        "keyword": "medical",
+        "score": 0.1535
+      },
+      {
+        "keyword": "frequent",
+        "score": 0.1454
+      },
+      {
+        "keyword": "vomiting",
+        "score": 0.131
+      }
+    ],
+    "amoxicillin": [
+      {
+        "keyword": "amoxicillin",
+        "score": 0.5859
+      },
+      {
+        "keyword": "amoxicillin clavulanate",
+        "score": 0.3627
+      },
+      {
+        "keyword": "clavulanate",
+        "score": 0.3627
+      },
+      {
+        "keyword": "clavulanate potassium",
+        "score": 0.3627
+      },
+      {
+        "keyword": "potassium",
+        "score": 0.2271
+      },
+      {
+        "keyword": "reported",
+        "score": 0.1521
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.1165
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1165
+      },
+      {
+        "keyword": "warnings precautions",
+        "score": 0.1097
+      },
+      {
+        "keyword": "adverse reactions",
+        "score": 0.0953
+      }
+    ],
+    "sertraline": [
+      {
+        "keyword": "sertraline",
+        "score": 0.4901
+      },
+      {
+        "keyword": "sertraline hydrochloride",
+        "score": 0.4055
+      },
+      {
+        "keyword": "hydrochloride",
+        "score": 0.3564
+      },
+      {
+        "keyword": "disorder",
+        "score": 0.2823
+      },
+      {
+        "keyword": "placebo",
+        "score": 0.1685
+      },
+      {
+        "keyword": "major depressive",
+        "score": 0.1378
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1346
+      },
+      {
+        "keyword": "depressive disorder",
+        "score": 0.1321
+      },
+      {
+        "keyword": "pmdd",
+        "score": 0.1231
+      },
+      {
+        "keyword": "depressive",
+        "score": 0.1217
+      }
+    ],
+    "fluoxetine": [
+      {
+        "keyword": "fluoxetine",
+        "score": 0.5466
+      },
+      {
+        "keyword": "disorder",
+        "score": 0.3075
+      },
+      {
+        "keyword": "panic",
+        "score": 0.2055
+      },
+      {
+        "keyword": "bulimia",
+        "score": 0.1931
+      },
+      {
+        "keyword": "panic disorder",
+        "score": 0.1787
+      },
+      {
+        "keyword": "clinical",
+        "score": 0.1748
+      },
+      {
+        "keyword": "ocd",
+        "score": 0.1608
+      },
+      {
+        "keyword": "depressive disorder",
+        "score": 0.1532
+      },
+      {
+        "keyword": "major depressive",
+        "score": 0.1532
+      },
+      {
+        "keyword": "ocd bulimia",
+        "score": 0.1525
+      }
+    ],
+    "loratadine": [
+      {
+        "keyword": "ask",
+        "score": 0.4618
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.4618
+      },
+      {
+        "keyword": "product",
+        "score": 0.4028
+      },
+      {
+        "keyword": "ask doctor",
+        "score": 0.3079
+      },
+      {
+        "keyword": "allergic reaction",
+        "score": 0.2868
+      },
+      {
+        "keyword": "medical",
+        "score": 0.225
+      },
+      {
+        "keyword": "allergic",
+        "score": 0.1921
+      },
+      {
+        "keyword": "overdose",
+        "score": 0.1343
+      },
+      {
+        "keyword": "case",
+        "score": 0.119
+      },
+      {
+        "keyword": "control",
+        "score": 0.119
+      }
+    ],
+    "metoprolol": [
+      {
+        "keyword": "beta",
+        "score": 0.5367
+      },
+      {
+        "keyword": "reported",
+        "score": 0.2793
+      },
+      {
+        "keyword": "patients",
+        "score": 0.2739
+      },
+      {
+        "keyword": "blockers",
+        "score": 0.2239
+      },
+      {
+        "keyword": "heart",
+        "score": 0.1909
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.1896
+      },
+      {
+        "keyword": "hypotension",
+        "score": 0.1627
+      },
+      {
+        "keyword": "adverse reactions",
+        "score": 0.1475
+      },
+      {
+        "keyword": "worsening",
+        "score": 0.1302
+      },
+      {
+        "keyword": "inhibitors",
+        "score": 0.1292
+      }
+    ],
+    "gabapentin": [
+      {
+        "keyword": "gabapentin",
+        "score": 0.7086
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1883
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.1782
+      },
+      {
+        "keyword": "12 years",
+        "score": 0.1616
+      },
+      {
+        "keyword": "placebo",
+        "score": 0.1608
+      },
+      {
+        "keyword": "adverse reactions",
+        "score": 0.158
+      },
+      {
+        "keyword": "12",
+        "score": 0.1567
+      },
+      {
+        "keyword": "patients 12",
+        "score": 0.1479
+      },
+      {
+        "keyword": "antiepileptic",
+        "score": 0.1417
+      },
+      {
+        "keyword": "hydrocodone",
+        "score": 0.1417
+      }
+    ],
+    "prednisone": [
+      {
+        "keyword": "corticosteroids",
+        "score": 0.6314
+      },
+      {
+        "keyword": "increased",
+        "score": 0.2623
+      },
+      {
+        "keyword": "children",
+        "score": 0.2186
+      },
+      {
+        "keyword": "patients",
+        "score": 0.2139
+      },
+      {
+        "keyword": "pregnancy",
+        "score": 0.1894
+      },
+      {
+        "keyword": "potassium",
+        "score": 0.1765
+      },
+      {
+        "keyword": "possible",
+        "score": 0.1659
+      },
+      {
+        "keyword": "therapy",
+        "score": 0.1576
+      },
+      {
+        "keyword": "pressure",
+        "score": 0.1553
+      },
+      {
+        "keyword": "appropriate",
+        "score": 0.1365
+      }
+    ],
+    "ciprofloxacin": [
+      {
+        "keyword": "patients",
+        "score": 0.3405
+      },
+      {
+        "keyword": "fda",
+        "score": 0.3131
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.2554
+      },
+      {
+        "keyword": "occurring",
+        "score": 0.2332
+      },
+      {
+        "keyword": "included",
+        "score": 0.2204
+      },
+      {
+        "keyword": "studies",
+        "score": 0.198
+      },
+      {
+        "keyword": "administration",
+        "score": 0.1881
+      },
+      {
+        "keyword": "adverse reactions",
+        "score": 0.1702
+      },
+      {
+        "keyword": "additional",
+        "score": 0.1404
+      },
+      {
+        "keyword": "white",
+        "score": 0.1315
+      }
+    ],
+    "warfarin": [
+      {
+        "keyword": "warfarin",
+        "score": 0.5592
+      },
+      {
+        "keyword": "warfarin sodium",
+        "score": 0.545
+      },
+      {
+        "keyword": "sodium",
+        "score": 0.3663
+      },
+      {
+        "keyword": "bleeding",
+        "score": 0.1706
+      },
+      {
+        "keyword": "interactions",
+        "score": 0.1358
+      },
+      {
+        "keyword": "warnings precautions",
+        "score": 0.1172
+      },
+      {
+        "keyword": "disorders",
+        "score": 0.1172
+      },
+      {
+        "keyword": "potential",
+        "score": 0.0951
+      },
+      {
+        "keyword": "precautions",
+        "score": 0.0951
+      },
+      {
+        "keyword": "increase",
+        "score": 0.0815
+      }
+    ],
+    "albuterol": [
+      {
+        "keyword": "albuterol",
+        "score": 0.5458
+      },
+      {
+        "keyword": "hfa",
+        "score": 0.4174
+      },
+      {
+        "keyword": "albuterol sulfate",
+        "score": 0.3692
+      },
+      {
+        "keyword": "sulfate hfa",
+        "score": 0.3532
+      },
+      {
+        "keyword": "sulfate",
+        "score": 0.2929
+      },
+      {
+        "keyword": "subjects",
+        "score": 0.1727
+      },
+      {
+        "keyword": "beta",
+        "score": 0.1552
+      },
+      {
+        "keyword": "adverse",
+        "score": 0.0975
+      },
+      {
+        "keyword": "digoxin",
+        "score": 0.0971
+      },
+      {
+        "keyword": "trials",
+        "score": 0.078
+      }
+    ],
+    "hydrochlorothiazide": [
+      {
+        "keyword": "lisinopril",
+        "score": 0.5547
+      },
+      {
+        "keyword": "hydrochlorothiazide",
+        "score": 0.3478
+      },
+      {
+        "keyword": "patients",
+        "score": 0.2679
+      },
+      {
+        "keyword": "lisinopril hydrochlorothiazide",
+        "score": 0.2162
+      },
+      {
+        "keyword": "ace",
+        "score": 0.1974
+      },
+      {
+        "keyword": "hydrochlorothiazide tablets",
+        "score": 0.1786
+      },
+      {
+        "keyword": "renal",
+        "score": 0.1474
+      },
+      {
+        "keyword": "tablets",
+        "score": 0.1366
+      },
+      {
+        "keyword": "fetal",
+        "score": 0.1316
+      },
+      {
+        "keyword": "angioedema",
+        "score": 0.1254
+      }
+    ],
+    "tramadol": [
+      {
+        "keyword": "tramadol",
+        "score": 0.3982
+      },
+      {
+        "keyword": "opioid",
+        "score": 0.3644
+      },
+      {
+        "keyword": "extended",
+        "score": 0.256
+      },
+      {
+        "keyword": "extended release",
+        "score": 0.2462
+      },
+      {
+        "keyword": "tramadol hydrochloride",
+        "score": 0.2363
+      },
+      {
+        "keyword": "release tablets",
+        "score": 0.2363
+      },
+      {
+        "keyword": "hydrochloride extended",
+        "score": 0.2363
+      },
+      {
+        "keyword": "hydrochloride",
+        "score": 0.2078
+      },
+      {
+        "keyword": "release",
+        "score": 0.186
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1607
+      }
+    ],
+    "duloxetine": [
+      {
+        "keyword": "duloxetine",
+        "score": 0.5178
+      },
+      {
+        "keyword": "release capsules",
+        "score": 0.2612
+      },
+      {
+        "keyword": "duloxetine delayed",
+        "score": 0.2612
+      },
+      {
+        "keyword": "delayed release",
+        "score": 0.2612
+      },
+      {
+        "keyword": "capsules",
+        "score": 0.2296
+      },
+      {
+        "keyword": "delayed",
+        "score": 0.2113
+      },
+      {
+        "keyword": "placebo",
+        "score": 0.2026
+      },
+      {
+        "keyword": "release",
+        "score": 0.1973
+      },
+      {
+        "keyword": "patients",
+        "score": 0.1808
+      },
+      {
+        "keyword": "mdd",
+        "score": 0.1531
+      }
+    ]
+  },
+  "risk_scores": {
+    "aspirin": 1,
+    "ibuprofen": 3,
+    "acetaminophen": 1,
+    "metformin": 3,
+    "lisinopril": 5,
+    "atorvastatin": 3,
+    "omeprazole": 0,
+    "amoxicillin": 1,
+    "sertraline": 6,
+    "fluoxetine": 5,
+    "loratadine": 0,
+    "metoprolol": 0,
+    "gabapentin": 6,
+    "prednisone": 1,
+    "ciprofloxacin": 0,
+    "warfarin": 2,
+    "albuterol": 1,
+    "hydrochlorothiazide": 5,
+    "tramadol": 5,
+    "duloxetine": 3
+  },
+  "risk_flags": {
+    "aspirin": {
+      "bleeding": 5
+    },
+    "ibuprofen": {
+      "fatal": 1,
+      "bleeding": 5,
+      "stroke": 5
+    },
+    "acetaminophen": {
+      "liver damage": 1
+    },
+    "metformin": {
+      "fatal": 2,
+      "anaphylaxis": 1,
+      "seizure": 1
+    },
+    "lisinopril": {
+      "life.?threatening": 2,
+      "fatal": 2,
+      "death": 5,
+      "cardiac arrest": 1,
+      "stroke": 1
+    },
+    "atorvastatin": {
+      "fatal": 6,
+      "anaphylaxis": 1,
+      "stroke": 10
+    },
+    "omeprazole": {},
+    "amoxicillin": {
+      "death": 1
+    },
+    "sertraline": {
+      "life.?threatening": 1,
+      "fatal": 1,
+      "death": 1,
+      "suicidal (thoughts|ideation|behavior)": 1,
+      "seizure": 1,
+      "bleeding": 1
+    },
+    "fluoxetine": {
+      "death": 2,
+      "kidney (failure|damage|impairment)": 1,
+      "suicidal (thoughts|ideation|behavior)": 1,
+      "seizure": 2,
+      "bleeding": 8
+    },
+    "loratadine": {},
+    "metoprolol": {},
+    "gabapentin": {
+      "life.?threatening": 2,
+      "fatal": 2,
+      "death": 3,
+      "anaphylaxis": 1,
+      "suicidal (thoughts|ideation|behavior)": 1,
+      "seizure": 3
+    },
+    "prednisone": {
+      "fatal": 1
+    },
+    "ciprofloxacin": {},
+    "warfarin": {
+      "fatal": 2,
+      "bleeding": 8
+    },
+    "albuterol": {
+      "anaphylaxis": 1
+    },
+    "hydrochlorothiazide": {
+      "life.?threatening": 2,
+      "fatal": 2,
+      "death": 5,
+      "cardiac arrest": 1,
+      "stroke": 1
+    },
+    "tramadol": {
+      "life.?threatening": 3,
+      "fatal": 4,
+      "death": 5,
+      "anaphylaxis": 2,
+      "seizure": 9
+    },
+    "duloxetine": {
+      "suicidal (thoughts|ideation|behavior)": 1,
+      "seizure": 2,
+      "bleeding": 5
+    }
+  }
+}

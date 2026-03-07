@@ -1,0 +1,30 @@
+{
+  "Logistic Regression": {
+    "roc_auc": 0.8937,
+    "pr_auc": 0.5645,
+    "precision_high_sev": 0.5604,
+    "recall_high_sev": 0.8095,
+    "f1_high_sev": 0.6623
+  },
+  "Random Forest": {
+    "roc_auc": 0.9476,
+    "pr_auc": 0.8119,
+    "precision_high_sev": 0.719,
+    "recall_high_sev": 0.6905,
+    "f1_high_sev": 0.7045
+  },
+  "Gradient Boosting": {
+    "roc_auc": 0.9512,
+    "pr_auc": 0.7977,
+    "precision_high_sev": 0.7109,
+    "recall_high_sev": 0.7222,
+    "f1_high_sev": 0.7165
+  },
+  "XGBoost": {
+    "roc_auc": 0.9513,
+    "pr_auc": 0.8046,
+    "precision_high_sev": 0.6534,
+    "recall_high_sev": 0.9127,
+    "f1_high_sev": 0.7616
+  }
+}
