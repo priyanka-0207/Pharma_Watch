@@ -1,4 +1,4 @@
-# 💊 AI Drug Safety Intelligence Platform
+# 💊 PharmaWatch - AI Drug Safety Intelligence Platform
 
 I've always been curious about how drugs affect people differently, and during my Master's at Northeastern, I decided to dig into it. I used ToolUniverse — a scientific tool platform built by researchers at Harvard and MIT — to pull real adverse event data from the FDA for 20 common drugs like aspirin, metformin, and sertraline. From there, I built out the whole pipeline myself: cleaning and transforming the messy data, engineering features like TF-IDF scores to figure out which side effects actually matter for each drug, training ML models to predict which reactions are likely to be serious, and running NLP on drug labels to catch risk patterns buried in the text. I put everything into a Streamlit dashboard so anyone can explore it without touching code. The most interesting part was honestly the mistakes — my models initially showed perfect accuracy, and it took me a while to realize I had data leakage in my target variable. Fixing that taught me more about real-world ML than any classroom assignment has.
 
