@@ -67,4 +67,4 @@ drug-safety-intelligence/
 
 ### Prerequisites
 - Python 3.10+
-- ToolUniverse (`pip install toolu
+- ToolUniverse (`pip install tooluniverse')
